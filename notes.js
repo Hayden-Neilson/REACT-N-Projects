@@ -18,3 +18,4 @@ class Person {
     this.name = "max";
   }
 }
+//  6/23/20 reviewed the spread operator and the term destructuring
