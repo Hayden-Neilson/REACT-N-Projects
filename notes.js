@@ -31,3 +31,4 @@ class Person {
 // console.log(numarray)
 // console.log (doublenumarray)
 // 6/30/2020 went over the best practices on the work flow of a react app
+//  spa optimize code npm, bundler, compiler, and a development server
