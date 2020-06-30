@@ -20,13 +20,14 @@ class Person {
 }
 //  6/23/20 reviewed the spread operator and the term destructuring
 
-// 6/27//20 review the map function 
+// 6/27//20 review the map function
 
-const numarray = [1, 2, 3];
+// const numarray = [1, 2, 3];
 
-const doublenumarray = numarray.map((num) () => {
-  return numarray * 2;
-};
+// const doublenumarray = numarray.map((num) () => {
+//   return numarray * 2;
+// };
 
-console.log(numarray)
-console.log (doublenumarray)
+// console.log(numarray)
+// console.log (doublenumarray)
+// 6/30/2020 went over the best practices on the work flow of a react app
