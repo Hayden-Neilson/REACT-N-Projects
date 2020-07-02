@@ -32,3 +32,5 @@ class Person {
 // console.log (doublenumarray)
 // 6/30/2020 went over the best practices on the work flow of a react app
 //  spa optimize code npm, bundler, compiler, and a development server
+
+// 7/1/20 - reviewed how to add more than one time ofjsx to main root file of reactapp
