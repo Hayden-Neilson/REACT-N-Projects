@@ -34,3 +34,5 @@ class Person {
 //  spa optimize code npm, bundler, compiler, and a development server
 
 // 7/1/20 - reviewed how to add more than one time ofjsx to main root file of reactapp
+
+// reviewed the set up of a react app and where everything is
