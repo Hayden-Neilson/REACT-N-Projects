@@ -36,3 +36,6 @@ class Person {
 // 7/1/20 - reviewed how to add more than one time ofjsx to main root file of reactapp
 
 // reviewed the set up of a react app and where everything is
+
+// 7/9/2020
+// - this is a review of the app and how a react app renders in a html anf the important necessary parts of the app.
