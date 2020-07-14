@@ -39,3 +39,5 @@ class Person {
 
 // 7/9/2020
 // - this is a review of the app and how a react app renders in a html anf the important necessary parts of the app.
+
+// 7/13/20 - reviewed how to make a new component and export it to the app
