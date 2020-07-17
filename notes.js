@@ -43,3 +43,5 @@ class Person {
 // 7/13/20 - reviewed how to make a new component and export it to the app
 
 // 7/15/2020 - learned about the math method
+
+// 7/16/20 - how to pass props and use it to pass info or info about the const
