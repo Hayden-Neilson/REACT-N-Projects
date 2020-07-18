@@ -45,3 +45,5 @@ class Person {
 // 7/15/2020 - learned about the math method
 
 // 7/16/20 - how to pass props and use it to pass info or info about the const
+
+// 7/17/20- how to pass the children of a parent using props
