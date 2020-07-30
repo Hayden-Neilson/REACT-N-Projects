@@ -261,3 +261,5 @@ class Person {
 // Event names:
 
 // onToggle
+
+// how to manage state for components and where to have dumb components
